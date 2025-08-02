@@ -206,8 +206,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/kefimoetaz)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/kefimoetaz)
+- **GitHub**: [@kefimoetaz](https://github.com/kefimoetaz)
+- **LinkedIn**: [kefi moetaz](https://linkedin.com/in/kefimoetaz)
 - **Email**: kefiimoetaz@gmail.com
 
 ---
@@ -220,4 +220,5 @@ If you find this project interesting, please consider giving it a star! ⭐
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=kefimoetaz/jmal-chatbot&type=Date)](https://star-history.com/#kefimoetaz/jmal-chatbot&Date)
+
 
