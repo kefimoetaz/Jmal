@@ -41,7 +41,7 @@ An intelligent conversational AI chatbot featuring a deeply developed character 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/jmal-chatbot.git
+   git clone https://github.com/kefimoetaz/jmal-chatbot.git
    cd jmal-chatbot
    ```
 
@@ -217,5 +217,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌟 Star History
 
 If you find this project interesting, please consider giving it a star! ⭐
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/jmal-chatbot&type=Date)](https://star-history.com/#yourusername/jmal-chatbot&Date)
