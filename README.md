@@ -219,4 +219,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find this project interesting, please consider giving it a star! ⭐
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/jmal-chatbot&type=Date)](https://star-history.com/#yourusername/jmal-chatbot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kefimoetaz/jmal-chatbot&type=Date)](https://star-history.com/#kefimoetaz/jmal-chatbot&Date)
+
